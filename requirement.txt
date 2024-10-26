@@ -1,0 +1,4 @@
+required python version 10.10.3
+load dataset containing images and emotion and nationality detail through link https://www.kaggle.com/datasets/tapakah68/facial-emotion-recognition
+now run the code and upload the photo
+the accuracy of model is upto 80 %
